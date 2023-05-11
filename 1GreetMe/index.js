@@ -1,4 +1,4 @@
-// function will return a greeting when a person's name and language of choice are passed as parameter
+// lambda function will return a greeting when a person's name and language of choice are passed as parameter
 
 const moment = require('moment');
 const greeting = {
